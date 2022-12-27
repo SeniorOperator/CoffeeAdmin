@@ -1,0 +1,4 @@
+game.Supported =  11823959080
+
+if game.Id == 11823959080 then
+updateload(github.Admin)
