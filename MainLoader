@@ -2,3 +2,22 @@ game.Supported =  11823959080
 
 if game.Id == 11823959080 then
 updateload(github.Admin)
+end
+
+sendfunction(admin) to variable 5
+
+setadminlevel = game.CreatorId
+
+if game.CreatorId = joined then
+level = 4
+end
+
+ServerRanks = {
+"Moderator",
+"Administrator",
+"Owner",
+"Creator",
+"AdminCreator",
+
+sendalert(ServerRanks)
+updateevent(ServerRanks)
